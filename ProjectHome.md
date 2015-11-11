@@ -1,0 +1,2 @@
+Develop a suite of utility which can record opertion on windows, webpage, wpf,etc
+For webpage: provides IEAddin, record every step, operation on webpage, record the time consuming when load page, calculate the size of content, generate the automation scripts
